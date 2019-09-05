@@ -27,7 +27,7 @@ public class A1Novice {
 	}
 	
 	for (int i=0; i < count; i++) {
-		System.out.print(firstNames[i].charAt(0)+". " + lastNames[i] + ": " + totalPrice[]);
+		System.out.print(firstNames[i].charAt(0)+". " + lastNames[i] + ": " + totalPrice[i]);
 	}
 	
 	scan.close();
